@@ -13,7 +13,7 @@ body {
   align-items: center;
   height: 100vh;
   background-color: hsl(0, 0%, 8%);
-  font-family: "Inter",sans-serif;
+  font-family: 'Inter',sans-serif;
 }
 
 main {
