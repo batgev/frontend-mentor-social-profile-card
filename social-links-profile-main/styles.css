@@ -1,0 +1,68 @@
+/*@import url('https://fonts.google.com/specimen/Inter');*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: hsl(0, 0%, 8%);
+  font-family: sans-serif;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top:2rem;
+  background-color: hsl(0, 0%, 12%);
+  border-radius: 10px;
+  padding-left: 2.5rem;
+  padding-right: 1.5rem;
+  gap:18px;
+  padding-bottom: 1.5rem;
+  min-width: 350px;
+}
+.profile-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap:25px;
+}
+.socials {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+.social-btn {
+  background-color: hsl(0, 0%, 20%);
+  color: hsl(0, 0%, 100%);
+  width: 97%;
+  text-align: center;
+  padding: 10px 0;
+  border-radius: 5px;
+  font-size: 14px;
+}
+.social-btn:hover{
+    background-color: hsl(75, 94%, 57%);
+    color:hsl(0, 0%, 12%);
+    cursor:pointer;
+}
+img {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+}
+
+.attribution{
+   position: absolute;
+   bottom:15px;
+   color:hsl(0, 0%, 100%);
+}
