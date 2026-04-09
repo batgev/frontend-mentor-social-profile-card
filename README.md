@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/batgev/social-profile-card)
+- Solution URL: (https://github.com/batgev/frontend-mentor-social-profile-card)
 - Live Site URL: (https://your-live-site-url.com)
 
 ## My process
